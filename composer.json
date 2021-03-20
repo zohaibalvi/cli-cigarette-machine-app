@@ -1,0 +1,14 @@
+{
+  "name": "cli/cli",
+  "description": "Small cli cigaretter application",
+  "type": "cli-cigarette-app",
+  "license": "MIT License",
+  "require": {
+    "symfony/console": "^3.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
