@@ -24,7 +24,7 @@ Example 01:
 
 ```
 // Input
-$ php bin/console purchase-cigarettes 2 10.00
+$ php bin/console purchase-cigarettes 2 15.00
 
 // Output
 You bought 2 packs of cigarettes for 9.98, each for 4.99.
